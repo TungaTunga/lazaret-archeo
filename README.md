@@ -1,11 +1,11 @@
-lazaret-archeo
-==============
+Lazaret-Archeo
+--------------
 
 WARNING
 =======
- * This project is in maintenance mode only 
+ * This project is in maintenance mode only
  * Code keep here for historical purpose
- * We are planing a complete rewrite in the future 
+ * We are planing a complete rewrite in the future
 
 
 Description
